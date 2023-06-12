@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2? family= Public+Sans:wght@300 & display=swap");
+
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+* {
+  font-family: "Public Sans", sans-serif;
+  transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.095);
+  color: #ffffff28;
+  /* transform: translateX(20%); */
+}
+
+/* ------------------------------------------------------------- */
+
+@import url(fade.css);
